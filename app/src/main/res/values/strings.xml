@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ConstraintLayout</string>
+    <string name="daniel_anomfueme">Daniel Anomfueme</string>
+    <string name="android_developer">Android Developer</string>
 </resources>
